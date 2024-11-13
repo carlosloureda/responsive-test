@@ -1,0 +1,18 @@
+.sidepanel-header {
+  align-items: center;
+  border-block-end-width: 1px;
+  border-color: grey;
+  border-style: solid;
+  display: flex;
+  font: var(--typography-heading-s);
+  height: 64px;
+  justify-content: space-between;
+  padding-block: 24px;
+  padding-inline-end: 16px;
+  padding-inline-start: 40px;
+
+  background-color: grey;
+  position: sticky;
+  top: 0;
+  z-index: 3;
+}
